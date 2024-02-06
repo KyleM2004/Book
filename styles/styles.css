@@ -1,11 +1,16 @@
-.Book-Title {
-
+.body {
+    margin: auto;
+    text-align: center;
 }
 
-.synopsis {
+.Book-Title {
+    
+}
+
+.synopsis-container {
 
 }
 
 .character-index {
-    
+    text-align: start;
 }
