@@ -12,6 +12,10 @@
 
 }
 
+.chapter-content {
+    padding: 40px;
+}
+
 .character-index {
     text-align: start;
 }
