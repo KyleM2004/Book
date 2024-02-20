@@ -16,6 +16,10 @@
     padding: 40px;
 }
 
+.paragraph {
+    padding-top: 30px;
+}
+
 .character-index {
     text-align: start;
 }
