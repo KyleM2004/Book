@@ -2,6 +2,7 @@
     margin: auto;
     text-align: center;
     font-size: larger;
+    padding: 40px;
 }
 
 .Book-Title {
@@ -13,7 +14,7 @@
 }
 
 .chapter-content {
-    padding: 40px;
+    text-align: start;
 }
 
 .paragraph {
